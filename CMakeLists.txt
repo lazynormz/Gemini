@@ -7,5 +7,5 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 set(CMAKE_CXX_EXTENSIONS OFF)
 
 # Add subprojects
-add_subdirectory(engine)
+add_subdirectory(gemini)
 add_subdirectory(executer)
